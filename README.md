@@ -28,4 +28,4 @@ To install and run this project on your local machine, follow these steps:
    npm start
    ```
 
-6. Open your web browser and paste local http url:
+6. Open your web browser and paste local http url:http://localhost:3000
