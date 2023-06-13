@@ -10,7 +10,7 @@ To install and run this project on your local machine, follow these steps:
 
 2. you can clone the github respiotry using this commond :
    ```
-   git clone https://github.com/0xlightning/volopay.git
+   git clone https://github.com/Jagadeeshgouda/Card-Assignement.git
    ```
 
 3. changing project directory:
